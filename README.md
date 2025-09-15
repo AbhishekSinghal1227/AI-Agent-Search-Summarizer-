@@ -43,7 +43,6 @@ Abi works like a personal AI search engine — it finds information, organizes i
 
  
 
- 
-Famous National Parks:
+
  
 
