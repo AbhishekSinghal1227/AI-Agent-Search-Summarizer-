@@ -17,36 +17,15 @@ Abi works like a personal AI search engine — it finds information, organizes i
 
 ## Environment Setup for Windows 
 
-Follow these steps to set up Abi on your machine:
+
+<img width="699" height="353" alt="image" src="https://github.com/user-attachments/assets/3716dbea-c387-43bd-89b1-6fd4b69d3156" />
 
 
-Create a virtual environment:
-
-python -m venv venv
+<img width="778" height="329" alt="image" src="https://github.com/user-attachments/assets/359a208c-caf5-4e65-9337-bc85014f27d2" />
 
 
-
-Activate the virtual environment:
-
-.\venv\Scripts\activate
-
-
-<img width="998" height="365" alt="image" src="https://github.com/user-attachments/assets/e55f7a92-1aeb-4de6-bc10-f90eb9e1b5b4" />
-
-
-Install dependencies:
-
-pip install -r .\requirements.txt
+<img width="665" height="237" alt="image" src="https://github.com/user-attachments/assets/c7c5e7a8-c846-4e46-8882-5f821e9e0fbd" />
 
 
 
-Run the main code file:
 
-python .\main.py
-
-
-💡 Once you run main.py, you’ll see:
-
-🤖 Hi, this is Abi — your Personal AI Agent!
-💡 What can I help you research today?
-👉 <Type your query here>
