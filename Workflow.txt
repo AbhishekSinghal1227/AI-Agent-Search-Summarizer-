@@ -1,4 +1,7 @@
 setup the environment on vs code 
+
 1)python -m venv venv
 2).\venv\Scripts\activate
 3)pip install -r.\requirements.txt
+4)After all this now we need to run our main.py file so we can do this with command = python .\main.py
+
