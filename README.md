@@ -1,15 +1,46 @@
 # 🤖 Abi — Your Personal AI Agent!
 
-Abi is an AI-driven research assistant that helps users get quick summaries and credible sources for any topic. 🧠💡
+Abi is an AI-powered research assistant designed to help you get quick, accurate summaries and relevant sources for any question or topic. Think of Abi as a smart research companion that saves you time and gives reliable information.
 
-What Abi Can Do:
+🔹 How Abi Can Help You
 
-✅ Structured summaries for your questions
+✅ Get concise summaries of any topic.
 
-✅ Fetch relevant sources & links automatically
+✅ Access relevant sources and links automatically.
 
-✅ Generate lists for queries like “List of national parks in the USA”
+✅ Generate lists for questions like “List of national parks in the USA.”
 
-✅ Built with Python, LangChain & OpenAI APIs for reliable outputs
+✅ Helps you understand complex topics quickly without spending hours searching online.
 
-💡 Think of Abi as a smarter search engine. It doesn’t replace humans, but as AI advances, maybe one day AI agents like Abi could rival Google for research tasks.
+Abi works like a personal AI search engine — it finds information, organizes it, and gives you the most useful insights in one place.
+
+
+## Environment Setup for Windows 
+
+Follow these steps to set up Abi on your machine:
+
+Create a virtual environment:
+
+python -m venv venv
+
+
+Activate the virtual environment:
+
+.\venv\Scripts\activate
+
+
+Install dependencies:
+
+pip install -r .\requirements.txt
+
+
+Run the main code file:
+
+python .\main.py
+
+
+💡 Once you run main.py, you’ll see:
+
+🤖 Hi, this is Abi — your Personal AI Agent!
+💡 What can I help you research today?
+👉 <Type your query here>
