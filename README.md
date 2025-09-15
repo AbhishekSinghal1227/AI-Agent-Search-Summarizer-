@@ -19,9 +19,11 @@ Abi works like a personal AI search engine — it finds information, organizes i
 
 Follow these steps to set up Abi on your machine:
 
+
 Create a virtual environment:
 
 python -m venv venv
+
 
 
 Activate the virtual environment:
@@ -29,9 +31,13 @@ Activate the virtual environment:
 .\venv\Scripts\activate
 
 
+<img width="998" height="365" alt="image" src="https://github.com/user-attachments/assets/e55f7a92-1aeb-4de6-bc10-f90eb9e1b5b4" />
+
+
 Install dependencies:
 
 pip install -r .\requirements.txt
+
 
 
 Run the main code file:
