@@ -1,4 +1,4 @@
-🤖 Abi — Your Personal AI Agent!
+# 🤖 Abi — Your Personal AI Agent!
 
 Abi is an AI-driven research assistant that helps users get quick summaries and credible sources for any topic. 🧠💡
 
