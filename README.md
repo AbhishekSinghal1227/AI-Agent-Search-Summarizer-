@@ -40,6 +40,17 @@ Abi works like a personal AI search engine — it finds information, organizes i
 <img width="665" height="237" alt="image" src="https://github.com/user-attachments/assets/c7c5e7a8-c846-4e46-8882-5f821e9e0fbd" />
 
 
+# Output
+<img width="975" height="457" alt="image" src="https://github.com/user-attachments/assets/9ea410d9-7cd6-432d-a104-d1634d7ae878" />
+
+
+<img width="975" height="253" alt="image" src="https://github.com/user-attachments/assets/d335abc9-b46b-4009-820a-61d5ea9b7bf5" />
+
+
+<img width="975" height="251" alt="image" src="https://github.com/user-attachments/assets/82540016-fad3-4277-9105-9748213a5eb7" />
+
+
+<img width="975" height="239" alt="image" src="https://github.com/user-attachments/assets/8dc6d1d6-0b25-4747-b668-edda9e42af73" />
 
  
 
