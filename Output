@@ -1,5 +1,34 @@
 # Output
 
+# UI USER INTERFACE
+import gradio as gr
+def run_agent_ui(query):
+    raw_response = agent_executor.invoke({"query": query})
+    try:
+        structured_response = fixing_parser.parse(raw_response.get("output"))
+        result = f"""
+Topic      : {structured_response.topic}
+
+Summary    : {structured_response.summary}
+
+Sources    : {', '.join(structured_response.sources)}
+
+"""
+        return result
+    except Exception as e:
+        return f"❌ Failed to parse the response: {e}\nRaw Response: {raw_response}"
+
+# ---- Gradio UI ----
+with gr.Blocks() as demo:
+    gr.Markdown("🤖 Abi — Your Personal AI Search Summariser")
+    query_input = gr.Textbox(label="Enter your query:", placeholder="Ask me anything!", lines=2)
+    submit_btn = gr.Button(" Submit ")
+    output_box = gr.Textbox(label="AI Response", lines=30)
+
+    submit_btn.click(fn=run_agent_ui, inputs=query_input, outputs=output_box)
+
+demo.launch()
+
 
 
 
