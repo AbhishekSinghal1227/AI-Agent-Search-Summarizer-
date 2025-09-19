@@ -12,7 +12,7 @@ AI-powered research assistant designed to help you get quick, accurate summaries
 
 ✅ Helps you understand complex topics quickly without spending hours searching online.
 
-Abi works like a personal AI search engine — it finds information, organizes it, and gives you the most useful insights in one place.
+Works like a personal AI search engine — it finds information, organizes it, and gives you the most useful insights in one place.
 
 
 ## Environment Setup for Windows 
