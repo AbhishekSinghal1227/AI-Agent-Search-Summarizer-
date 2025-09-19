@@ -1,4 +1,4 @@
-# 🤖 AI Agent Search Summariser 
+# 🤖 AI Agent Search Summarizer 
 
 AI-powered research assistant designed to help you get quick, accurate summaries and relevant sources for any question or topic. Think of Abi as a smart research companion that saves you time and gives reliable information.
 
