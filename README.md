@@ -1,8 +1,8 @@
-# 🤖  Abi — Your Personal AI Search Summariser  (Link: http://127.0.0.1:7860/ )
+# 🤖 AI Agent Search Summariser 
 
-Abi is an AI-powered research assistant designed to help you get quick, accurate summaries and relevant sources for any question or topic. Think of Abi as a smart research companion that saves you time and gives reliable information.
+AI-powered research assistant designed to help you get quick, accurate summaries and relevant sources for any question or topic. Think of Abi as a smart research companion that saves you time and gives reliable information.
 
-🔹 How Abi Can Help You
+🔹 How this Can Help You
 
 ✅ Get concise summaries of any topic.
 
